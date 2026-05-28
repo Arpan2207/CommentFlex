@@ -79,12 +79,11 @@ Every flex card can include a public verified page.
 # Screenshots
 
 ## Dashboard
-<img width="359" height="762" alt="Screenshot 2026-05-28 145103" src="https://github.com/user-attachments/assets/8cadde95-5441-4ee2-b67b-e130a45724ee" />
+<img width="359" height="762" alt="Screenshot 2026-05-28 145103" src="https://github.com/user-attachments/assets/8cadde95-5441-4ee2-b67b-e130a45724ee" /><img width="362" height="766" alt="Screenshot 2026-05-28 145624" src="https://github.com/user-attachments/assets/ff45c16a-40b9-4cb4-b1d0-a42d6eddd279" />
 
 -
 
 ## Receipt Preview
-<img width="362" height="766" alt="Screenshot 2026-05-28 145624" src="https://github.com/user-attachments/assets/ff45c16a-40b9-4cb4-b1d0-a42d6eddd279" />
 
 -
 
