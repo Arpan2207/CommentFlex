@@ -1,4 +1,3 @@
-```md
 # CommentFlex
 
 <p align="center">
