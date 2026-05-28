@@ -78,31 +78,20 @@ Every flex card can include a public verified page.
 
 # Screenshots
 
-## Dashboard
-<img width="359" height="762" alt="Screenshot 2026-05-28 145103" src="https://github.com/user-attachments/assets/8cadde95-5441-4ee2-b67b-e130a45724ee" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8cadde95-5441-4ee2-b67b-e130a45724ee" width="220" />
+  <img src="https://github.com/user-attachments/assets/ff45c16a-40b9-4cb4-b1d0-a42d6eddd279" width="220" />
+</p>
 
-<img width="362" height="766" alt="Screenshot 2026-05-28 145624" src="https://github.com/user-attachments/assets/ff45c16a-40b9-4cb4-b1d0-a42d6eddd279" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8616e3b4-8174-412d-9951-ce593fef40ed" width="220" />
+  <img src="https://github.com/user-attachments/assets/44765f17-e8f1-4e55-8e67-e973a03320f7" width="220" />
+</p>
 
--
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/983e7a79-db6f-4d86-859f-81beba503daa" width="220" />
+</p>
 
-## Receipt Preview
-
--
-
-## Hall of Fame
-<img width="365" height="771" alt="Screenshot 2026-05-28 145636" src="https://github.com/user-attachments/assets/8616e3b4-8174-412d-9951-ce593fef40ed" />
-
----
-
-## Friends League
-<img width="369" height="779" alt="Screenshot 2026-05-28 145646" src="https://github.com/user-attachments/assets/44765f17-e8f1-4e55-8e67-e973a03320f7" />
-
----
-
-## Profile
-<img width="372" height="770" alt="Screenshot 2026-05-28 145655" src="https://github.com/user-attachments/assets/983e7a79-db6f-4d86-859f-81beba503daa" />
-
----
 
 # Product Philosophy
 
