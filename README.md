@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  A social layer for people whose Instagram comments go viral.
+  A social layer for people whose Instagram, TikTok and YouTube comments go viral.
 </p>
 
 ---
@@ -30,6 +30,25 @@ Instead of screenshotting comments manually, users can create beautiful verified
 - creator/reel context
 - milestone achievements
 - public proof links
+
+---
+# Product Philosophy
+
+Instagram comments have become a form of internet identity.
+
+People already screenshot viral comments and repost them manually.
+
+CommentFlex turns that into a clean, verified, shareable experience.
+
+The goal is not to build another analytics dashboard.
+
+The goal is to make:
+- comment clout
+- funny replies
+- GIF reactions
+- viral moments
+
+feel collectible and worth showing off.
 
 ---
 
@@ -91,25 +110,6 @@ Every flex card can include a public verified page.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/983e7a79-db6f-4d86-859f-81beba503daa" width="220" />
 </p>
-
-
-# Product Philosophy
-
-Instagram comments have become a form of internet identity.
-
-People already screenshot viral comments and repost them manually.
-
-CommentFlex turns that into a clean, verified, shareable experience.
-
-The goal is not to build another analytics dashboard.
-
-The goal is to make:
-- comment clout
-- funny replies
-- GIF reactions
-- viral moments
-
-feel collectible and worth showing off.
 
 ---
 
